@@ -1,0 +1,2 @@
+# Kalapacsvetes
+Szoftverfejlesztő vizsgafeladat (konzolos)
